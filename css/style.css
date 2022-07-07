@@ -9008,7 +9008,7 @@ h1, h2, h3, h4, h5,
         .project .text span {
           color: rgba(255, 255, 255, 0.8); } }
   .project:hover .overlay, .project:focus .overlay {
-    opacity: .9; }
+    opacity: .8; }
   .project:hover .text, .project:focus .text {
     opacity: 1; }
 
@@ -9593,9 +9593,9 @@ textarea.form-control {
         color: #ffbd39; }
     .categories li.active a, .sidelink li.active a {
       color: #000000;
-      font-style: italic; }
+      font-style: italic; }   
 
-#ftco-loader {
+        #ftco-loader {
   position: fixed;
   width: 96px;
   height: 96px;
