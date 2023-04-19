@@ -9008,7 +9008,7 @@ h1, h2, h3, h4, h5,
         .project .text span {
           color: rgba(255, 255, 255, 0.8); } }
   .project:hover .overlay, .project:focus .overlay {
-    opacity: .8; }
+    opacity: .95; }
   .project:hover .text, .project:focus .text {
     opacity: 1; }
 
